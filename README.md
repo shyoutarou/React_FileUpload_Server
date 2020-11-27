@@ -1,21 +1,12 @@
 # React File Uploader - Server
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/shyoutarou/NLW-Next-Level-Week-3/master/.github/demo.gif" alt="NLW Intro" width="650px" />
 </p>
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%233-lightblue?style=for-the-badge" alt="Nome e edição do evento" />
-  <img src="https://img.shields.io/badge/web%3F-OK-lightblue?style=for-the-badge" alt="Sistema web Ok" />
-  <img src="https://img.shields.io/badge/server%3F-OK-lightblue?style=for-the-badge" alt="Server Ok" />
-  <img src="https://img.shields.io/badge/Mobile%3F-OK-lightblue?style=for-the-badge" alt="Aplicativo mobile Ok" />
-  <img src="https://img.shields.io/badge/License-MIT-lightblue?style=for-the-badge" alt="License MIT" />
-
-</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/shyoutarou/NLW-Next-Level-Week-3/master/.github/HappyLogo.png" alt="Happy Logo" width="80%" />
-</p>
+</p> -->
 
 ## 📌 Index
 
